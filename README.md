@@ -9,7 +9,8 @@
 
 
 ## Link of the course final setup:
-    Prototype website link after configured, made available by the course author. The code available in this repository has some modifications made by me.
+    Prototype website link after configured, made available by the course author. The code available in this repository has some 
+    modifications made by me.
     [https://react-projects-13-stripe-submenus.netlify.app/]
 
 
