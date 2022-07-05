@@ -15,7 +15,8 @@
 
 
 ## Functionalities:
-    Interactive  submenu, opening and closing depending on where the browser mouse is moving, using onMouseOver method, changing the CSS class;
+    Interactive  submenu, opening and closing depending on where the browser mouse is moving, using onMouseOver method, 
+    changing the CSS class;
     
     API access and double deconstruction using map method ;
 
