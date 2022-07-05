@@ -21,9 +21,12 @@
     Adding and removing HTML classes dynamically using validations;
 
     One different submenu for each menu item:
-        1-which opens according to the location of the menu link, which is accessed through the event target using the getBoundingClientRect() method to access the left and bottom values ​​and through a simple arithmetic calculation to create the location of that particular submenu.;
+        1-which opens according to the location of the menu link, which is accessed through the event target 
+        using the getBoundingClientRect() method to access the left and bottom values ​​and through a simple 
+        arithmetic calculation to create the location of that particular submenu.;
 
-        2-It uses the find method to dynamically open a different submenu per menu item, when hovering the mouse over each of these items.
+        2-It uses the find method to dynamically open a different submenu per menu item, when hovering the
+        mouse over each of these items.
 
     
     
